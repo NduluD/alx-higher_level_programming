@@ -1,49 +1,17 @@
------BEGIN OPENSSH PRIVATE KEY-----
-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
------END OPENSSH PRIVATE KEY-----
+#!/usr/bin/python3
+""" lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa """
+import MySQLdb
+import sys
+
+
+if __name__ == "__main__":
+    db = MySQLdb.connect(host="localhost", user=sys.argv[1],
+                         passwd=sys.argv[2], db=sys.argv[3], port=3306)
+    cur = db.cursor()
+    cur.execute("SELECT * FROM states WHERE name like 'N%' ORDER BY states.id ASC")
+    rows = cur.fetchall()
+    for row in rows:
+        print(row)
+    cur.close()
+    db.close()
+~               
